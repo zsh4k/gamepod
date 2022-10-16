@@ -23,6 +23,14 @@
     "gulp-concat": "^2.6.1",
     "gulp-uglify": "^3.0.2",
     "jsdoc": "^3.6.11"
-  }
- 
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsh4k/gamepod.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zsh4k/gamepod/issues"
+  },
+  "homepage": "https://github.com/zsh4k/gamepod#readme"
 }
