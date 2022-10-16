@@ -1,0 +1,28 @@
+{
+  "name": "gamepod",
+  "version": "1.0.0",
+  "description": "Game controller for Web brouswer",
+  "main": "gulpfile.js",
+  "scripts": {
+    "docs": "jsdoc -c ./jsdoc.json"
+  },
+  "keywords": [
+    "Gamepad",
+    "Game controller",
+    "JavaScript",
+    "Wireles controller"
+  ],
+  "author": "Oscar Javier Zamora Tellez",
+  "contributors": [
+    "Jhon Jairo Guerrero Sanchez <garruxx@gmail.com>"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "docdash": "^1.2.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2",
+    "jsdoc": "^3.6.11"
+  }
+ 
+}
